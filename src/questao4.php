@@ -12,4 +12,3 @@ if (!$loginValido) {
 } else {
     echo "Bem vindo Lucas!\n";
 }
-?>
